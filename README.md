@@ -66,5 +66,3 @@ Author
 Sarmistha Naskar
 Aspiring Data Analyst
 
-Acknowledgment
-This project is created for learning and portfolio purposes to demonstrate SQL-based data analysis skills.
